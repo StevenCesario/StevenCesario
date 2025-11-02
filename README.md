@@ -60,5 +60,5 @@ This is supporting proof of my ability to handle high-stakes, asynchronous data 
 I am currently accepting select "white-glove" CAPI clients.
 
 💼 **[Hire me on Upwork](https://www.upwork.com/freelancers/~013d2c74fe1ea31b2f?viewMode=1)**  
-🌍 Sweden-based, solving global tracking challenges.  
+🌍 Sweden-based, solving global tracking challenges  
 📧 steven.cesario@proton.me
