@@ -21,8 +21,7 @@ By implementing my full-stack CAPI system, I took one client from a **~5.0 EMQ t
 
 My portfolio is strategically organized to de-risk me for my clients. It proves I am not just a script-builder, but a **System Architect**.
 
-### 1. 💡 ClarityTracking: The Core System Blueprint
-**(Link to: `claritytracking-public-demo`)**
+### [1. 💡 ClarityTracking: The Core System Blueprint](https://github.com/StevenCesario/claritytracking-public-demo)
 
 This is my flagship: the **v1.0 Production Architecture** I use to deliver my "Golden Case Study" results.
 
