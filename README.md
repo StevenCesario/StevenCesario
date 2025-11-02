@@ -29,8 +29,7 @@ This is my flagship: the **v1.0 Production Architecture** I use to deliver my "G
 * **Multi-Tenant:** Secure JWT auth and database models (`User` -> `Website` -> `Connection`) built for a real SaaS.
 * **Data Pipeline:** Includes the `EventLog` table and analytics (`get_potential_duplicate_events`) to monitor and ensure data integrity.
 
-### 2. 🎮 xecution.ai-api-demo: Proof of Elite FastAPI Skills
-**(Link to: `xecution.ai-api-demo`)**
+### [2. 🎮 xecution.ai-api-demo: Proof of Production-grade FastAPI Skills](https://github.com/StevenCesario/xecution.ai-api-demo)
 
 This is supporting proof of my mastery of the core stack. It demonstrates I can build secure, complex, production-grade applications from scratch.
 
@@ -38,8 +37,7 @@ This is supporting proof of my mastery of the core stack. It demonstrates I can 
 * **Architecture:** Clean separation of concerns (services, crud, models).
 * **Production-Ready:** Secure JWT auth, Alembic migrations, and a full Pytest suite.
 
-### 3. 📦 e-commerce-integration-demo: Proof of Complex Webhook Integration
-**(Link to: `e-commerce-integration-demo`)**
+### [3. 📦 e-commerce-integration-demo: Proof of Complex Webhook Integration](https://github.com/StevenCesario/e-commerce-integration-demo)
 
 This is supporting proof of my ability to handle high-stakes, asynchronous data from third-party platforms (like GoHighLevel, Shopify, or Skool). This project eliminated **15+ hours of weekly manual work** for a client.
 
