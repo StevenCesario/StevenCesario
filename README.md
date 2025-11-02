@@ -31,7 +31,7 @@ This is my flagship: the **v1.0 Production Architecture** I use to deliver my "G
 
 ### [2. 🎮 xecution.ai-api-demo: Proof of Production-grade FastAPI Skills](https://github.com/StevenCesario/xecution.ai-api-demo)
 
-This is supporting proof of my mastery of the core stack. It demonstrates I can build secure, complex, production-grade applications from scratch.
+While the domain is different, this is supporting proof of my commitment to mastery of the core stack. It demonstrates I can build secure, complex, production-grade applications from scratch.
 
 * **Core Stack:** FastAPI, SQLAlchemy 2.0, Pydantic V2.
 * **Architecture:** Clean separation of concerns (services, crud, models).
@@ -59,5 +59,6 @@ This is supporting proof of my ability to handle high-stakes, asynchronous data 
 ## 📈 Let's Fix Your Tracking
 I am currently accepting select "white-glove" CAPI clients.
 
-💼 **[Hire me on Upwork](https://www.upwork.com/freelancers/~013d2c74fe1ea31b2f?viewMode=1)** 🌍 Sweden-based, solving global tracking challenges.  
+💼 **[Hire me on Upwork](https://www.upwork.com/freelancers/~013d2c74fe1ea31b2f?viewMode=1)**  
+🌍 Sweden-based, solving global tracking challenges.  
 📧 steven.cesario@proton.me
