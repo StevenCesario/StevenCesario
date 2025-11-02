@@ -31,7 +31,7 @@ This is my flagship: the **v1.0 Production Architecture** I use to deliver my "G
 
 ### [2. 🎮 xecution.ai-api-demo: Proof of Production-grade FastAPI Skills](https://github.com/StevenCesario/xecution.ai-api-demo)
 
-While the domain is different, this is supporting proof of my commitment to mastery of the core stack. It demonstrates I can build secure, complex, production-grade applications from scratch.
+While the domain is different, this is supporting proof of my mastery of the core stack. It demonstrates I can build secure, complex, production-grade applications from scratch.
 
 * **Core Stack:** FastAPI, SQLAlchemy 2.0, Pydantic V2.
 * **Architecture:** Clean separation of concerns (services, crud, models).
