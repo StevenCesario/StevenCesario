@@ -57,7 +57,7 @@ This is supporting proof of my ability to handle high-stakes, asynchronous data 
 ---
 
 ## 📈 Let's Fix Your Tracking
-**[I am currently accepting select "white-glove" CAPI clients.](https://claritytracking.io)**
+I am currently accepting select "white-glove" CAPI clients. **[claritytracking.io](https://claritytracking.io)**
 
 💼 **[Hire me on Upwork](https://www.upwork.com/freelancers/~013d2c74fe1ea31b2f?viewMode=1)**  
 🌍 Sweden-based, solving global tracking challenges  
