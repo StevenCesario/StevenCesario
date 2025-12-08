@@ -9,7 +9,7 @@ Advertisers are "flying blind" post-iOS 14, losing 40-50% of their data and stru
 
 ### 🏆 The "Golden Case Study" (My Core Proof of Work)
 
-By implementing my full-stack CAPI system, I took one client from a **~5.0 EMQ to 9.3/10 in 24 hours**.
+By implementing my full-stack CAPI system, our agency took one client from a **~5.0 EMQ to 9.3/10 in 24 hours**.
 
 * **The Result:** **5.15x True ROAS** by feeding Meta's algorithm accurate data.
 * **The Scale:** Allowed the client to confidently scale ad spend to **$43k in 45 days**.
