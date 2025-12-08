@@ -3,7 +3,7 @@
 
 I solve the **#1 pain point** for modern advertisers: conversion data loss from broken Meta CAPI tracking.
 
-Advertisers are "flying blind" post-iOS 14, losing 40-50% of their data and struggling with 4/10 Event Match Quality (EMQ) scores. My "white-glove" service implements a production-grade, full-stack architecture that solves this permanently.
+Advertisers are "flying blind" post-iOS 14, losing 40-50% of their data and struggling with 4/10 Event Match Quality (EMQ) scores. My "white-glove" service implements a production-grade, full-stack architecture that solves this permanently while I'm simultaneously building the SaaS
 
 ---
 
