@@ -25,7 +25,7 @@ My portfolio is strategically organized to de-risk me for my clients. It proves 
 
 This is my flagship: the **v1.0 Production Architecture** I use to deliver my "Golden Case Study" results.
 
-* **Full-Stack:** FastAPI backend (is currently being rebuilt in TypeScript with Clerk as an added security addition!), React frontend dashboard.
+* **Full-Stack:** FastAPI backend [(is currently being rebuilt in TypeScript with Clerk as an added security addition!)](https://github.com/StevenCesario/claritytracking-v2), React frontend dashboard.
 * **Multi-Tenant:** Secure JWT auth and database models (`User` -> `Website` -> `Connection`) built for a real SaaS.
 * **Data Pipeline:** Includes the `EventLog` table and analytics (`get_potential_duplicate_events`) to monitor and ensure data integrity.
 
